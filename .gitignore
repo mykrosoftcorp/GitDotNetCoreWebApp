@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs
+/GitDotNetCoreWebApp/.vs/GitDotNetCoreWebApp/DesignTimeBuild/.dtbcache
+/GitDotNetCoreWebApp/.vs/GitDotNetCoreWebApp/v15/Server/sqlite3/db.lock
