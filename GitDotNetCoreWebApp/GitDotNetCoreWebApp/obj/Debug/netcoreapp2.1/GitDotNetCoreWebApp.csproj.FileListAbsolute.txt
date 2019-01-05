@@ -5,7 +5,6 @@ C:\Vijay\Information\Cloud\GIT\mykrosoftcorp\GitDotNetCoreWebApp\GitDotNetCoreWe
 C:\Vijay\Information\Cloud\GIT\mykrosoftcorp\GitDotNetCoreWebApp\GitDotNetCoreWebApp\bin\Debug\netcoreapp2.1\GitDotNetCoreWebApp.pdb
 C:\Vijay\Information\Cloud\GIT\mykrosoftcorp\GitDotNetCoreWebApp\GitDotNetCoreWebApp\bin\Debug\netcoreapp2.1\GitDotNetCoreWebApp.Views.dll
 C:\Vijay\Information\Cloud\GIT\mykrosoftcorp\GitDotNetCoreWebApp\GitDotNetCoreWebApp\bin\Debug\netcoreapp2.1\GitDotNetCoreWebApp.Views.pdb
-C:\Vijay\Information\Cloud\GIT\mykrosoftcorp\GitDotNetCoreWebApp\GitDotNetCoreWebApp\obj\Debug\netcoreapp2.1\GitDotNetCoreWebApp.csprojAssemblyReference.cache
 C:\Vijay\Information\Cloud\GIT\mykrosoftcorp\GitDotNetCoreWebApp\GitDotNetCoreWebApp\obj\Debug\netcoreapp2.1\GitDotNetCoreWebApp.csproj.CoreCompileInputs.cache
 C:\Vijay\Information\Cloud\GIT\mykrosoftcorp\GitDotNetCoreWebApp\GitDotNetCoreWebApp\obj\Debug\netcoreapp2.1\GitDotNetCoreWebApp.RazorAssemblyInfo.cache
 C:\Vijay\Information\Cloud\GIT\mykrosoftcorp\GitDotNetCoreWebApp\GitDotNetCoreWebApp\obj\Debug\netcoreapp2.1\GitDotNetCoreWebApp.RazorAssemblyInfo.cs
