@@ -1,5 +1,3 @@
-C:\Vijay\Information\Cloud\GIT\mykrosoftcorp\GitDotNetCoreWebApp\GitDotNetCoreWebApp.NUnitTest\bin\Debug\netcoreapp2.1\GitDotNetCoreWebApp.Views.dll
-C:\Vijay\Information\Cloud\GIT\mykrosoftcorp\GitDotNetCoreWebApp\GitDotNetCoreWebApp.NUnitTest\bin\Debug\netcoreapp2.1\GitDotNetCoreWebApp.Views.pdb
 C:\Vijay\Information\Cloud\GIT\mykrosoftcorp\GitDotNetCoreWebApp\GitDotNetCoreWebApp.NUnitTest\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
 C:\Vijay\Information\Cloud\GIT\mykrosoftcorp\GitDotNetCoreWebApp\GitDotNetCoreWebApp.NUnitTest\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
 C:\Vijay\Information\Cloud\GIT\mykrosoftcorp\GitDotNetCoreWebApp\GitDotNetCoreWebApp.NUnitTest\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
@@ -9,12 +7,9 @@ C:\Vijay\Information\Cloud\GIT\mykrosoftcorp\GitDotNetCoreWebApp\GitDotNetCoreWe
 C:\Vijay\Information\Cloud\GIT\mykrosoftcorp\GitDotNetCoreWebApp\GitDotNetCoreWebApp.NUnitTest\bin\Debug\netcoreapp2.1\GitDotNetCoreWebApp.NUnitTest.runtimeconfig.dev.json
 C:\Vijay\Information\Cloud\GIT\mykrosoftcorp\GitDotNetCoreWebApp\GitDotNetCoreWebApp.NUnitTest\bin\Debug\netcoreapp2.1\GitDotNetCoreWebApp.NUnitTest.dll
 C:\Vijay\Information\Cloud\GIT\mykrosoftcorp\GitDotNetCoreWebApp\GitDotNetCoreWebApp.NUnitTest\bin\Debug\netcoreapp2.1\GitDotNetCoreWebApp.NUnitTest.pdb
-C:\Vijay\Information\Cloud\GIT\mykrosoftcorp\GitDotNetCoreWebApp\GitDotNetCoreWebApp.NUnitTest\bin\Debug\netcoreapp2.1\GitDotNetCoreWebApp.dll
-C:\Vijay\Information\Cloud\GIT\mykrosoftcorp\GitDotNetCoreWebApp\GitDotNetCoreWebApp.NUnitTest\bin\Debug\netcoreapp2.1\GitDotNetCoreWebApp.pdb
-C:\Vijay\Information\Cloud\GIT\mykrosoftcorp\GitDotNetCoreWebApp\GitDotNetCoreWebApp.NUnitTest\obj\Debug\netcoreapp2.1\GitDotNetCoreWebApp.NUnitTest.csprojAssemblyReference.cache
 C:\Vijay\Information\Cloud\GIT\mykrosoftcorp\GitDotNetCoreWebApp\GitDotNetCoreWebApp.NUnitTest\obj\Debug\netcoreapp2.1\GitDotNetCoreWebApp.NUnitTest.csproj.CoreCompileInputs.cache
 C:\Vijay\Information\Cloud\GIT\mykrosoftcorp\GitDotNetCoreWebApp\GitDotNetCoreWebApp.NUnitTest\obj\Debug\netcoreapp2.1\GitDotNetCoreWebApp.NUnitTest.AssemblyInfoInputs.cache
 C:\Vijay\Information\Cloud\GIT\mykrosoftcorp\GitDotNetCoreWebApp\GitDotNetCoreWebApp.NUnitTest\obj\Debug\netcoreapp2.1\GitDotNetCoreWebApp.NUnitTest.AssemblyInfo.cs
-C:\Vijay\Information\Cloud\GIT\mykrosoftcorp\GitDotNetCoreWebApp\GitDotNetCoreWebApp.NUnitTest\obj\Debug\netcoreapp2.1\GitDotNetCoreWebApp.NUnitTest.csproj.CopyComplete
 C:\Vijay\Information\Cloud\GIT\mykrosoftcorp\GitDotNetCoreWebApp\GitDotNetCoreWebApp.NUnitTest\obj\Debug\netcoreapp2.1\GitDotNetCoreWebApp.NUnitTest.dll
 C:\Vijay\Information\Cloud\GIT\mykrosoftcorp\GitDotNetCoreWebApp\GitDotNetCoreWebApp.NUnitTest\obj\Debug\netcoreapp2.1\GitDotNetCoreWebApp.NUnitTest.pdb
+C:\Vijay\Information\Cloud\GIT\mykrosoftcorp\GitDotNetCoreWebApp\GitDotNetCoreWebApp.NUnitTest\obj\Debug\netcoreapp2.1\GitDotNetCoreWebApp.NUnitTest.csprojAssemblyReference.cache
